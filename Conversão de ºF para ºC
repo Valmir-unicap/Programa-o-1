@@ -1,6 +1,6 @@
 import java.util.Scanner;
- class Fparac {
-    public static Scanner entrada= new Scanner(System.in);
+ public class Fparac {
+    Scanner entrada= new Scanner(System.in);
     public static void main(String[] args) {
         int celsius, formula;
         System.out.print("Digite o valor em celsius: ");
