@@ -1,8 +1,8 @@
 import java.util.Scanner;
  
- class questao1 {
+ public class questao1 {
  
-    public static Scanner entrada = new Scanner(System.in);
+    Scanner entrada = new Scanner(System.in);
  
     public static void main(String[] args) {
         System.out.println("1- Opção de ordem crescente.");
