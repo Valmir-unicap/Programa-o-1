@@ -36,7 +36,7 @@
 -Estrutura condicional composta
 -Estruturas de repetição
 
-*Modularização: 
+*Modularização:* 
 -Conceito de bloco
 -Conceito de escopo
 -Procedimentos
